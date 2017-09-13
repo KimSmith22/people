@@ -1,0 +1,17 @@
+{
+  "name": "people",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kimberli Smith <kimberli.smith@ge.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/KimSmith22/GE-Capstone",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
